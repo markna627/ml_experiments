@@ -15,6 +15,7 @@ This project implements Hopfield Network from scratch using Numpy. The model, gi
 
 ### How to Run
 ```
+pip install -r requirements.txt
 git clone https://github.com/markna627/ml_experiments.git
 cd ml_experiments/hopfield_network
 train_hopfield.py --corruption_rate 0.25 --n_iter 1000
@@ -86,6 +87,7 @@ The Gaussian Mixture Model was implemented and a synthetic dataset was given to 
 ### How to Run
 
 ```
+pip install -r requirements.txt
 git clone https://github.com/markna627/ml_experiments.git
 cd ml_experiments/gmm
 training.py
