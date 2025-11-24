@@ -1,5 +1,5 @@
 # Classical ML Experiments Repo
-A collection of small classicial ML experiments for educational implementation built from scratch. Most of these projects were built to better understand different fields of machine learning. 
+A collection of small classicial ML experiments for educational purpose, coupled with implementations built from scratch. Most of these projects were built to better understand different fields of machine learning. 
 
 ---
 ## 1. Hopfield Network
