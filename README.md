@@ -121,7 +121,7 @@ train.py
 #### Training - Validation Curve
 ![Training/Validatation Loss](cnn/assets/train_val.png)
 #### Per-class Performance
-![Perclass](cnn/assets/perclass.png)
+<img src="cnn/assets/perclass.png" width="500">
 
 ### Notes
 * More detailed visualization is available: [Here](https://colab.research.google.com/drive/1hwsP280hzcYPK_chRFl5cDCT2EzLUI1v?usp=sharing)
