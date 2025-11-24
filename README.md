@@ -96,5 +96,34 @@ training.py
 Colab demo is available: [Here](https://colab.research.google.com/drive/1RdnTLRYJJY5pN3rsd6lbkywh3aNDXXWK?usp=sharing)
 
 
+---
+---
+## 3. Convolutional Neural Network
+
+### Overview
+This project focuses on traditional training pipeline of a neural network for a classification task, and to practice ways to visualize/analyze the results of model's performance. Given the CIFAR-10 dataset, in the available colab notebook, it demonstrates:
+* Overall accuracy during training/validation
+* Per-class performance
+* Confusion matrix
+
+### How to Run
+
+```
+
+pip install -r requirements.txt
+git clone https://github.com/markna627/ml_experiments.git
+cd ml_experiments/cnn
+train.py
+
+```
+
+### Example
+#### Training - Validation Curve
+![Training/Validatation Loss](/assets/train_val.png)
+#### Per-class Performance
+![Perclass](/assets/perclass.png)
+
+### Notes
+* More detailed visualization is available: [Here](https://colab.research.google.com/drive/1hwsP280hzcYPK_chRFl5cDCT2EzLUI1v?usp=sharing)
 
 
