@@ -119,9 +119,9 @@ train.py
 
 ### Example
 #### Training - Validation Curve
-![Training/Validatation Loss](/assets/train_val.png)
+![Training/Validatation Loss](assets/train_val.png)
 #### Per-class Performance
-![Perclass](/assets/perclass.png)
+![Perclass](assets/perclass.png)
 
 ### Notes
 * More detailed visualization is available: [Here](https://colab.research.google.com/drive/1hwsP280hzcYPK_chRFl5cDCT2EzLUI1v?usp=sharing)
